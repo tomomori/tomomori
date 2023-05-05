@@ -1,0 +1,17 @@
+version: '3.5'
+
+services:
+  app:
+    image: node:slim
+    container_name: 'tomomori-frontend'
+    working_dir: /app
+    ports:
+      - 5173:5173
+    environment:
+      - DEBUG=1
+      - PYTHONUNBUFFERED=1
+      - DEBIAN_FRONTEND=noninteractive
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./app:/app
