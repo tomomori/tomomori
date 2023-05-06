@@ -1,5 +1,5 @@
 import './App.css'
-import { Route, Routes, HashRouter as BrowserRouter } from "react-router-dom";
+import { Route, Routes, BrowserRouter } from "react-router-dom";
 import Header from '../components/Header/Header';
 import Navi from '../components/Header/Navi';
 import Jumbotron from '../components/Header/Jumbotron';
