@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Navi = () => {
     return (
         <div className="row">
@@ -8,10 +10,11 @@ const Navi = () => {
           <div className="navbar-nav-scroll">
               <ul className="navbar-nav bd-navbar-nav flex-row">
                 <li className="nav-item">
-                  <a className="nav-link " href="/">Home</a>
+                  <Link className="nav-link" to='/'>Home</Link>
                 </li>
+
                 <li className="nav-item">
-                  <a className="nav-link active" href="/md" rel="noopener">Documentation</a>
+                  <Link className="nav-link" to='/md'>Documentation</Link>
                 </li>
               </ul>
           </div>
