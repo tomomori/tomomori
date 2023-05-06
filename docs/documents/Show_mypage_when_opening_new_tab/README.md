@@ -9,3 +9,5 @@ I created an extension for that.
 マイクロソフトのEdgeブラウザは、新しいタブを開いたとき、bing.comを表示します。
 新しいタブを開いたときは、自分のホームページや会社のホームページまたはgoogle等を開きたいと思います。
 そのために拡張機能を作成しました。
+
+[Download & Install(Edge)](https://microsoftedge.microsoft.com/addons/detail/show-mypage-when-opening-/hehhcnmphkngadagjahclgpmofakpijo)
