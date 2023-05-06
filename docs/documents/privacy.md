@@ -5,7 +5,7 @@ We respects the privacy of you. This Privacy Policy explains how we collect, use
 ---
 ## Personal Data
 
-#### [SlackBackupAsHtml](/md/SlackBackupAsHtml)
+#### [SlackBackupAsHtml](/#/md/SlackBackupAsHtml)
 This application collect your personal datas below.
 
 * HTML as a result of searching on Slack's website
@@ -15,7 +15,7 @@ These datas are not used for other purposes.
 
 &nbsp;  &nbsp;
 
-### [Show mypage when opening new tab](/md/Show_mypage_when_opening_new_tab)
+### [Show mypage when opening new tab](/#/md/Show_mypage_when_opening_new_tab)
 This application collect your personal datas below.
 
 * The setting value you entered on the setting screen of this extension
