@@ -17,15 +17,16 @@ const Md: FC = () => {
         path += "menu.md";
     } else {
         if (params.f1.toLowerCase() === "SlackBackupAsHtml".toLowerCase()) {
-            path += "/SlackBackupAsHtml/README.md";
+            path += "SlackBackupAsHtml/README.md";
         } else if (params.f1.toLowerCase() === "Privacy".toLowerCase()) {
             path += "privacy.md";
         } else if (params.f1.toLowerCase() === "Show_mypage_when_opening_new_tab".toLowerCase()) {
-            path += "/Show_mypage_when_opening_new_tab/README.md";
+            path += "Show_mypage_when_opening_new_tab/README.md";
         } else {
             window.location.href = "/";
         }
     }
+    console.log(path)
 
     useEffect(() => {
         /* pathは大文字小文字を区別するので注意する */
@@ -36,14 +37,14 @@ const Md: FC = () => {
         .then((md) => {
             setMarkdown(md);
         });
-    }, []);
+    }, [path]);
 
     return (
         <div className="" style={w}>
             <ReactMarkdown
                 children={markdown}
                 components={{code: CodeBlock}}
-                linkTarget="_blank"
+                /* linkTarget="_blank" */
             />
         </div>
     );
