@@ -29,3 +29,5 @@
 * 出力したHTML中のファイルや画像へのリンクがいつまで有効なのかは未検証です。
 * あえて低速です。
 * Slackに対応されて使えなくなるかもしれません。
+
+[Download & Install](https://chrome.google.com/webstore/detail/slackbackupashtml/eihpmdhejmjgafpejnggbflnhmkbfbfn)
