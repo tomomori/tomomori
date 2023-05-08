@@ -17,3 +17,9 @@ Line3
 [^1]: 注釈の内容
 
 これは`code`です
+
+<script>alert("scriptのテスト");</script>
+<script>document.write("scriptのテスト");</script>
+
+<div dangerouslySetInnerHTML="document.write('scriptのテスト')">dangerouslySetInnerHTML</div>
+
