@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+デバック実行
+npm -prefix frontend run dev
+
+ビルド
+npm -prefix frontend run build
+
+デプロイ(GitHub Pages)(ビルドも実行)
+npm -prefix frontend run deploy
