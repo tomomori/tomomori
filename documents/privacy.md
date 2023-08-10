@@ -13,8 +13,7 @@ This application collect your personal datas below.
 These datas are used only for "downloading search results as backups".
 These datas are not used for other purposes.
 
-&nbsp;  &nbsp;
-
+---
 ### [Show mypage when opening new tab](/#/md/Show_mypage_when_opening_new_tab)
 This application collect your personal datas below.
 
@@ -25,3 +24,6 @@ These data will be stored in LocalStorage until you delete them.
 These data are used only to open new tabs according to the configuration value.
 These datas are not used for other purposes.
 
+---
+### [Very Simple HIIT Timer 2](/#/md/HiitTimer2)
+This application does not collect any personal data. Also, we do not store any data.
