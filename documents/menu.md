@@ -17,7 +17,16 @@
 
 &nbsp;  &nbsp;
 
+---
+### スマホアプリ
 
+* [Very Simple HIIT Timer 2](/#/md/HiitTimer2/README)
+    * とてもシンプルなHIIT(タバタ式)タイマーです。
+    * チャイムなどのシンプルな音声も再生されます。
+
+[![フィーチャー](https://tomomori.github.io/documents/HiitTimer2/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC.jpg "フィーチャー")](/#/md/HiitTimer2/README)
+
+---
 [Privacy policy](/#/md/privacy)
 
 ---

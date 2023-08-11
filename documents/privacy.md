@@ -25,5 +25,5 @@ These data are used only to open new tabs according to the configuration value.
 These datas are not used for other purposes.
 
 ---
-### [Very Simple HIIT Timer 2](/#/md/HiitTimer2)
+### [Very Simple HIIT Timer 2](/#/md/HiitTimer2/README)
 This application does not collect any personal data. Also, we do not store any data.
