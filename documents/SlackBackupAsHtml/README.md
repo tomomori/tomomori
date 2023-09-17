@@ -1,5 +1,6 @@
 # SlackBackupAsHtml
 
+---
 #### Output slack search results as HTML
 * これはChrome拡張機能です。
 * Slackの検索結果をHTMLファイルに出力できます。

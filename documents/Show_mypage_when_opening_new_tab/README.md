@@ -1,5 +1,6 @@
-# Show_mypage_when_opening_new_tab
+# Show mypage when opening new tab
 
+---
 Show my page when you open a new tab in your browser
 
 Microsoft's Edge browser shows bing.com when you open a new tab.
