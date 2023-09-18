@@ -1,13 +1,13 @@
 # SlackBackupAsHtml
 
 ---
-#### Output slack search results as HTML
-* これはChrome拡張機能です。
-* Slackの検索結果をHTMLファイルに出力できます。
-* Slackメッセージをバックアップする目的で作成しました。
-* SlackSearchToCSVから改名し、CSVには出力できなくなりました。HTMLへの出力しかできませんのでお間違いなく。
+## Output slack search results as HTML
+    * これはChrome拡張機能です。
+    * Slackの検索結果をHTMLファイルに出力できます。
+    * Slackメッセージをバックアップする目的で作成しました。
+    * SlackSearchToCSVから改名し、CSVには出力できなくなりました。HTMLへの出力しかできませんのでお間違いなく。
     * どうしてもCSVにしたい場合は、出力されたHTMLからどうにか作成してください。(ご相談にはのります)
----
+
 ## 使い方
 1. 当拡張機能をインストールしたあとはWEBブラウザの再起動をお願いします。
 1. WEBブラウザでSlackにログインします。
@@ -20,7 +20,6 @@
 1. Resultに結果(HTML)が表示されます。
 1. SaveボタンをクリックするとHTMLとしてダウンロードできます。
 
----
 ## 注意事項
 * 検索結果の最初のメッセージが表示されている状態で実行してください。
     * そうしないと取りこぼしが発生します。
