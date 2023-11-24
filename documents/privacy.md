@@ -20,7 +20,6 @@ This application collect your personal datas below.
 * The setting value you entered on the setting screen of this extension
 
 These data will be stored in LocalStorage until you delete them.
-
 These data are used only to open new tabs according to the configuration value.
 These datas are not used for other purposes.
 
@@ -29,3 +28,13 @@ These datas are not used for other purposes.
 This application does not collect any personal data. Also, we do not store any data.
 However, if an ad is displayed, there is information collected by that SDK. See below for more information.
 https://developers.google.com/admob/android/privacy/play-data-disclosure?hl=en#data_collected_and_shared_automatically
+
+---
+### [AI Girls Brick Breaker](/#/md/AiGirlsBrickBreaker/README)
+This application collects the following personal data:
+
+*Setting values required to progress the game
+
+These data will remain on your device until you delete the app.
+These data are only used to progress the game.
+These data will not be used for any other purpose.
