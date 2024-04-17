@@ -18,7 +18,13 @@
     * とてもシンプルなHIIT(タバタ式)タイマーです。
     * チャイムなどのシンプルな音声も再生されます。
 
-[![フィーチャー](https://tomomori.github.io/documents/HiitTimer2/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC.jpg "フィーチャー")](/md/HiitTimer2/README)
+[![HiitTimer2 feature](https://tomomori.github.io/documents/HiitTimer2/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC.jpg "HiitTimer2 feature")](/md/HiitTimer2/README)
+
+### [AI ガール ブロック崩し ( AI Girls Brick Breaker )](/md/AiGirlsBrickBreaker/README)
+    * モンスターに捕らわれたAI少女をブロック崩しで救い出せ
+    * AIで生成されたセクシー美女を収録
+
+[![AiGirlsBrickBreaker feature](https://tomomori.github.io/documents/AiGirlsBrickBreaker/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC.png "AiGirlsBrickBreaker feature")](/md/AiGirlsBrickBreaker/README)
 
 ---
 ### [Privacy policy](/md/privacy)

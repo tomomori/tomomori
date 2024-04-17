@@ -26,14 +26,14 @@
 </div>
 
 ---
-![フィーチャー](https://tomomori.github.io/documents/HiitTimer2/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC.jpg "フィーチャー")
+![HiitTimer2 feature](https://tomomori.github.io/documents/HiitTimer2/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC.jpg "HiitTimer2 feature")
 
 ---
-![2](https://tomomori.github.io/documents/HiitTimer2/2.gif "2")
+![HiitTimer2 workout](https://tomomori.github.io/documents/HiitTimer2/2.gif "HiitTimer2 workout")
 
 ---
-[!["youtube"](https://tomomori.github.io/documents/HiitTimer2/youtube_link.png)](https://www.youtube.com/watch?v=L4wvXs0Ds0w)
+[![HiitTimer2 youtube](https://tomomori.github.io/documents/HiitTimer2/youtube_link.png)](https://www.youtube.com/watch?v=L4wvXs0Ds0w)
 
 ---
-[![Download & Install](https://tomomori.github.io/google-play-badge.png)](https://play.google.com/store/apps/details?id=net.tomomori.hiit_timer_2)
+[![HiitTimer2 Download & Install](https://tomomori.github.io/google-play-badge.png)](https://play.google.com/store/apps/details?id=net.tomomori.hiit_timer_2)
 
